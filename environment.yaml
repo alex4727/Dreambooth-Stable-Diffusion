@@ -1,4 +1,4 @@
-name: ldm
+name: dreambooth
 channels:
   - pytorch
   - defaults
