@@ -15,9 +15,9 @@
                 "-t",
                 "--actual_resume", "/root/code/Stable-Diffusion-Checkpoints/v1-5-pruned.ckpt",
                 "-n", "test",
-                "--gpus", "2,",
-                "--data_root", "/root/code/sample_data/custom_diffusion_data/corncob1000",
-                "--reg_data_root", "/root/code/custom-diffusion/gen_reg/*/samples",
+                "--gpus", "7,",
+                "--data_root", "/root/code/sample_data/sub_corncobs/1000/corncob1000",
+                "--reg_data_root", "/root/code/sample_data/gen_reg/*/samples",
                 "--class_word", "*"
             ],
             "console": "integratedTerminal",
